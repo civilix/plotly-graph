@@ -1,2 +1,4 @@
-Copy of INTIMATEMERGER.csv
+*.csv
 *.ipynb
+*.DS_Store
+
